@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :shortnado, Shortnado.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "seanworkcomputer",
+  password: "seanworkcomputer",
   hostname: "localhost",
   database: "shortnado_dev",
   stacktrace: true,
